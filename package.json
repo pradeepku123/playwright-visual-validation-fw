@@ -1,0 +1,13 @@
+{
+  "name": "playwright-visual-validation-fw",
+  "version": "1.0.0",
+  "description": "* It is the Solution for Larage & Enterprise Applications for  theire Visual Validation. # Technology Used     * NodeJS(LTS v18)     * Playwright(LTS v1.35)     * Typescript # Author     * Pradeep Kumar Behera (Quality Engineer)     * mailto: contact@pradeepkumar.ml",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "@pradeepkumar123",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.0"
+  }
+}
