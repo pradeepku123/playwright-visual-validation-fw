@@ -5,4 +5,6 @@
     * Install Package "playwright":- npm init playwright@latest (refer to page https://playwright.dev/docs/intro#installing-playwright)
     * It started with end-to-end tests setup choose your configuration settings for node project
     * it had option to install browser if you choose yes the will install Chromium,Firefox and webKit binary for your project. and set by default /tests directory for testing files.
-    * 
+# DT [14th Jul 2023]
+    * Created ./src project root directory & move /tests directory to /src directory.
+    * Change project.config.ts file  testDir: "./tests" to  testDir: "./src/tests",
